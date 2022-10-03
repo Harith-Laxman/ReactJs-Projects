@@ -5,7 +5,7 @@ This is a repository of all the projects I built by following the "React - The C
 
 The code snapshots are organized in multiple **branches** where every branch **represents a course section**.
 
-For example, the branch [Expense_Tracker](Expense_Tracker) holds all code for the app Expense Tracker.
+For example, the branch [Expense_Tracker](https://github.com/Harith-Laxman/ReactJs-Projects/tree/Expense_Tracker) holds all code for the app Expense Tracker built during the first few sections of the course.
 
 You can switch branches via the branch dropdown above the directory explorer.
 
